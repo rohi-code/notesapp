@@ -7,7 +7,7 @@ A clean, fast, and responsive notes-taking application built using **React.js**.
 ## 🚀 Tech Stack
 
 - ⚛️ React.js
-- 💡 JavaScript (ES6+)
+- 💡 JavaScript
 - 🎨 HTML5 & CSS3
 - 🗃️ localStorage
 - 🌐 Netlify (for deployment)
